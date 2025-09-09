@@ -13,7 +13,6 @@ venv/
 ENV/
 
 # IDE / Editor
-.vscode/
 .idea/
 *.swp
 

@@ -1,0 +1,24 @@
+{
+  "recommendations": [
+    // 🔹 Python
+    "ms-python.python",
+    "ms-python.vscode-pylance",
+    "ms-python.isort",
+    "ms-python.black-formatter",
+
+    // 🔹 C#
+    "ms-dotnettools.csdevkit",
+    "visualstudioexptteam.vscodeintellicode",
+    "ms-dotnettools.vscode-dotnet-runtime",
+
+    // 🔹 SQL
+    "mtxr.sqltools",
+    "ms-mssql.mssql",
+
+    // 🔹 General Productivity
+    "esbenp.prettier-vscode",
+    "eamodio.gitlens",
+    "humao.rest-client",
+    "usernamehw.errorlens"
+  ]
+}
